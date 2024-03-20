@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucien-wrq
-- 👀 I’m interested in dev
+- 👀 I’m interested in IT
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on school project
 - ⚡ Fun fact: I have an msi
