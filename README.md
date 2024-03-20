@@ -9,8 +9,9 @@
 ## Skills
 
 - 💽 MySQL, SQL
-- 👁️ CSS
+- 👁️ CSS, HTML
 - 👨‍💻 PHP
+- 📺 Linux, Windows Server
 <!---
 lucien-wrq/lucien-wrq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
