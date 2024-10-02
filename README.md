@@ -14,8 +14,8 @@
 - 📺 Linux, Windows Server
 
 ## Links
-[![PDF](https://img.icons8.com/material-outlined/24/000000/pdf.png)](https://cvdesignr.com/p/66c0c45554967) CV  
-[![Website](https://img.icons8.com/material-outlined/24/000000/worldwide-location.png)](https://lucien-wrq.github.io/) Portfolio
+[![PDF](https://img.icons8.com/material-outlined/24/000000/pdf.png)](https://cvdesignr.com/p/66c0c45554967) [CV](https://cvdesignr.com/p/66c0c45554967)  
+[![Website](https://img.icons8.com/material-outlined/24/000000/worldwide-location.png)](https://lucien-wrq.github.io/) [Presentation](https://lucien-wrq.github.io/)
 
 <!---
 lucien-wrq/lucien-wrq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
