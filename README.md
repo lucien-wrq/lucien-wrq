@@ -14,7 +14,7 @@
 - 📺 Linux, Windows Server
 
 ## Links
-[![PDF](https://img.icons8.com/material-outlined/24/000000/pdf.png)](https://cvdesignr.com/p/66c0c45554967) [CV](https://cvdesignr.com/p/66c0c45554967)  
+[![PDF](https://img.icons8.com/material-outlined/24/000000/pdf.png)](https://cvdesignr.com/p/66c0c45554967) [CV](https://cvdesignr.com/p/66c22a3db92b1)  
 [![Website](https://img.icons8.com/material-outlined/24/000000/worldwide-location.png)](https://lucien-wrq.github.io/) [Presentation](https://lucien-wrq.github.io/)
 
 <!---
